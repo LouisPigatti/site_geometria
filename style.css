@@ -42,7 +42,7 @@ p {
     transform: scale(1.1);
 }
 
-@media (max-width: 600px){
+@media (max-width: 700px){
     h1 {
         margin-bottom: 40px;
         padding: 10px;
