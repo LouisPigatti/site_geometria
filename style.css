@@ -41,3 +41,19 @@ p {
 .piramide:hover {
     transform: scale(1.1);
 }
+
+@media (max-width: 600px){
+    h1 {
+        margin-bottom: 40px;
+        padding: 10px;
+    }
+
+    img {
+        width: 280px;
+        padding: 10px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+}
