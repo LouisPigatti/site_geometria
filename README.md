@@ -4,5 +4,7 @@ Nesse WebSite eu estava realizando uma atividade escolar onde eu precisava falar
 Além de sua definição, eu precisava citar como é calculada as suas respectivas áreas.
 Aproveitei para testar meus conhecimentos de HTMl e CSS, criando esse pequeno projeto.
 
+Este Website é responsivo!
+
 Créditos ao ícone do Website:
 Site Flaticon: https://www.flaticon.com/br/icones-gratis/geometria
